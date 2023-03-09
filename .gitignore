@@ -1,0 +1,16 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+.DS_Store
+Thumbs.db
+
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+~$*
+*.tmp
+.\#*
+*~
+*.bak
