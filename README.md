@@ -1,5 +1,5 @@
 ---
-permalink: /index.html
+permalink: /readme.html
 layout: default
 ---
 
